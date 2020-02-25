@@ -1,4 +1,4 @@
-# PHP-File-Managaer
+# PHP-File-Manager
 A simple file manager using PHP.
 
 ## Features:
